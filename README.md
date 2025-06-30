@@ -6,4 +6,7 @@ Whether you’re a local looking for a quick escape or a visitor eager to explor
 
 
 ## Gravel Bike Rides
-- [Gjøvik-Oslo (150km+, 2500m+ elev.)](src/gravel/Gjøvik-Oslo/Gjøvik-Oslo.md)
+- [Gjøvik-Oslo (150km+, 2500m+ elev.)](src/bicycle/gravel/Gjøvik-Oslo/Gjøvik-Oslo.md)
+
+## Hikes/Trail run
+- [Hodelyktløpet (12km, 425m elev.)](src/run/trails/Hodelyktløpet.md)
